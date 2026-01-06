@@ -7,17 +7,17 @@ SELECT * FROM Orders ORDER BY OrderID,ProductID;
 MERGE UPSERT into Orders
 
 EXEC dbo.Upsert_Order_Merge
-     @OrderID = 13,
-     @ProductID = 105,
-     @CustomerID = 3,
-     @SalesPersonID = 3,
-     @OrderDate = '2026-01-03',
-     @ShipDate = '2026-01-05',
-     @OrderStatus = 'Delivered',
-     @ShipAddress = 'Vine Lane',
-     @BillAddress = '4310 Clay Road',
-     @Quantity = 5,
-     @Sales = 155;
+     @OrderID                 =                    13                       ,
+     @ProductID               =                    105                      ,
+     @CustomerID              =                    3                        ,
+     @SalesPersonID           =                    3                        ,
+     @OrderDate               =                  '2026-01-03'               ,
+     @ShipDate                =                  '2026-01-05'               ,
+     @OrderStatus             =                  'Delivered'                ,
+     @ShipAddress             =                  'Vine Lane'                ,
+     @BillAddress             =                  '4310 Clay Road'           ,
+     @Quantity                =                  5                          ,
+     @Sales                   =                  155                        ;
 
 */
 CREATE OR ALTER PROCEDURE [DBO].[Upsert_Order_Merge]
