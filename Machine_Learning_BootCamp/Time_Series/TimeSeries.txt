@@ -1,0 +1,13 @@
+Time Series (Very Important)
+
+For industry readiness, add:
+
+1.   Moving Average
+
+2.  Exponential Smoothing
+
+3.  ARIMA / SARIMA
+
+4.  Facebook Prophet
+
+5.  Time Series Cross-Validation
