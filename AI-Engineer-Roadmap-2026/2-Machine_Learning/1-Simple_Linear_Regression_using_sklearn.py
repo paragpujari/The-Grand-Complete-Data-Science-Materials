@@ -64,3 +64,14 @@ print("Mean Squared Error of the model is:", mse)
 r2 = r2_score(Y_test, Y_pred)
 
 print("R2 Score of the model is:", r2)
+
+
+#### Plot regression line with predictions
+
+plt.scatter(X,Y,color='green', label='Actual Data')
+plt.plot(X,lin.predict(sc.transform(X)), color='red', label='Predicted Data')
+plt.xlabel('YearsExperience')
+plt.ylabel('Salary')
+plt.title('Simple Linear Regression - Salary Prediction')
+plt.legend()
+plt.show()
