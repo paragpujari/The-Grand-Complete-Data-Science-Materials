@@ -1,0 +1,31 @@
+employee_id,name,department,salary,city,job_title,hire_date
+101,John Smith,IT,75000,Bangalore,Software Engineer,2022-05-15
+102,Alice Johnson,HR,62000,Mumbai,HR Executive,2023-02-10
+103,Robert Brown,Finance,80000,Delhi,Financial Analyst,2024-01-20
+104,Emily Davis,IT,72000,Hyderabad,System Administrator,2021-11-08
+105,Michael Wilson,Sales,55000,Chennai,Sales Executive,2024-03-12
+106,Sophia Taylor,Marketing,68000,Pune,Marketing Specialist,2023-08-25
+107,Daniel Anderson,Finance,85000,Delhi,Senior Financial Analyst,2025-01-15
+108,Olivia Thomas,HR,60000,Mumbai,HR Coordinator,2022-06-30
+109,James Jackson,IT,90000,Bangalore,Technical Lead,2024-07-01
+110,Emma White,Sales,58000,Chennai,Sales Executive,2023-09-18
+111,William Harris,Marketing,71000,Pune,Digital Marketing Analyst,2025-02-14
+112,Ava Martin,Finance,95000,Delhi,Finance Manager,2021-12-05
+113,Benjamin Thompson,IT,77000,Hyderabad,Data Engineer,2024-04-22
+114,Charlotte Garcia,HR,64000,Kolkata,Talent Acquisition Specialist,2022-03-11
+115,Lucas Martinez,Sales,53000,Chennai,Sales Associate,2025-05-30
+116,Mia Rodriguez,IT,82000,Bangalore,Cloud Engineer,2024-06-18
+117,Ethan Clark,Finance,88000,Delhi,Risk Analyst,2023-11-22
+118,Harper Lewis,HR,61000,Mumbai,HR Generalist,2025-03-05
+119,Alexander Walker,Marketing,73000,Pune,SEO Specialist,2022-08-14
+120,Evelyn Hall,Sales,57000,Chennai,Sales Executive,2024-09-10
+121,Henry Allen,IT,98000,Bangalore,Solutions Architect,2025-01-08
+122,Abigail Young,Finance,79000,Delhi,Accountant,2021-10-19
+123,Sebastian Hernandez,Marketing,76000,Hyderabad,Content Strategist,2024-12-01
+124,Scarlett King,HR,67000,Kolkata,Recruitment Specialist,2023-04-28
+125,Jack Wright,Sales,60000,Mumbai,Business Development Executive,2025-06-11
+126,Grace Lopez,IT,81000,Hyderabad,Data Analyst,2022-07-07
+127,Samuel Hill,Finance,92000,Delhi,Investment Analyst,2024-08-16
+128,Chloe Scott,Marketing,70000,Pune,Brand Manager,2023-10-05
+129,David Green,HR,65000,Kolkata,Employee Relations Specialist,2024-02-27
+130,Lily Adams,Sales,59000,Chennai,Sales Manager,2025-04-09
